@@ -9,7 +9,13 @@ MIPS has three methods for implementation:<br />
 </pre>
   ##
 <img src="Extra_images/single_multi_pip.gif" width="500">
-<br /> What makes MIPS special is the simplicity of its instruction set and architechture.<br />
+<pre> 
+What makes MIPS special is the simplicity of its instruction set. Instructions are divided to 3 types:
+  1-R-type instruction.
+  2-I-type instruction.
+  3-J-type instruction.
+</pre>
+<img src="Extra_images/single_multi_pip.gif" width="500">
 
 
 <img src="RTL_view/Top_view_MIPS.png" width="900">
