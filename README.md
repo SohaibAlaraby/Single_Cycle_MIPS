@@ -41,13 +41,15 @@ MIPS contains 32 registers in its register file :
 
 In our project we are focusing on single-cycle MIPS
 <pre>
-single-cycle MIPS consists of 2 units :
+single-cycle MIPS consists of 2 units:
   
     - Control unit: which takes the instruction machine code [opcode, function] and generates the control signals needed for executing it.
-    - datapath: which performs according to the control signals to generate the right results.
+    - Datapath: which performs according to the control signals to generate the right results.
 
-There are external 2 units attached to MIPS:
-    - instruction memory: is used to store the program to be executed
-    - data memory: is used as external larger store unit for the microprossesor
+There are 2 external units attached to MIPS:
+  
+    - instruction memory is used to store the program to be executed
+    - data memory is used as external larger store unit for the microprocessor
+
 </pre>
 <img src="RTL_view/Top_view_MIPS.png" width="700">
