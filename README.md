@@ -18,6 +18,7 @@ What makes MIPS special is the simplicity of its instruction set. Instructions a
   3-J-type instruction.
 
 </pre>
+
 <img src="Extra_images/instruction_set.png" width="500">
 
 
