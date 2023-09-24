@@ -5,8 +5,8 @@ MIPS has three methods for implementation:<br />
 1-Single-cycle : each instruction is executed in a single cycle.<br />
 2-Multi-cycle : each instruction is broken into series of steps and instructions is executed one after another. <br />
 3-Pipelined : each instruction is broken into series of steps and multiple instructions are being excuted in parallel.<br />
-<img src="Extra_images/single_multi_pip.gif" width="500"> <br />
-What makes MIPS special is the simplicity of its instruction set and architechture.<br />
+<img src="Extra_images/single_multi_pip.gif" width="500">
+<br /> What makes MIPS special is the simplicity of its instruction set and architechture.<br />
 
 
 <img src="RTL_view/Top_view_MIPS.png" width="900">
