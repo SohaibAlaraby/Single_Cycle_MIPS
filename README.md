@@ -13,7 +13,7 @@ MIPS has three methods for implementation:
 
 </pre>
   ##
-<img src="Extra_images/single_multi_pip.gif" width="500">
+<img src="Extra_images/single_multi_pip.gif" width="700">
 <pre>
   
 What makes MIPS special is the simplicity of its instruction set. Instructions are divided to 3 types:
