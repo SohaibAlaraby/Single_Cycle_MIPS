@@ -31,12 +31,12 @@ What makes MIPS special is the simplicity of its instruction set. Instructions a
       -jal
 </pre>
 
-<img src="Extra_images/instruction_set.png" width="500">
+<img src="Extra_images/instruction_set.png" width="700">
 
 
 MIPS contains 32 registers in its register file :
 
-<img src="Extra_images/32register_mips.png" width="500">
+<img src="Extra_images/32register_mips.png" width="700">
 
 In our project we are focusing on single-cycle MIPS
 <pre>
@@ -49,4 +49,4 @@ There are external 2 units attached to MIPS:
     - instruction memory: used to store the program to be executed
     - data memory: used as external larger store unit for the microprossesor
 </pre>
-<img src="RTL_view/Top_view_MIPS.png" width="500">
+<img src="RTL_view/Top_view_MIPS.png" width="700">
