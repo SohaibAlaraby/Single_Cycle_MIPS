@@ -5,7 +5,7 @@
 <br />1-Single-cycle : each instruction is executed in a single cycle.<br />
 <br />2-Multi-cycle : each instruction is broken into series of steps and instructions is executed one after another. <br />
 <br />3-Pipelined : each instruction is broken into series of steps and multiple instructions are being excuted in parallel.<br />
-##si
+##
 <img src="Extra_images/single_multi_pip.gif" width="500">
 <br /> What makes MIPS special is the simplicity of its instruction set and architechture.<br />
 
