@@ -1,5 +1,5 @@
 # Single_Cycle_MIPS_32_bit
-###MIPS stands for "Microprocessor without Interlocked Pipeline Stages," and it is a kind of "RISC Reduced Instruction Set Computer”. It was developed in the 1980s by John Hennessy and his colleagues at Stanford University and after that, it was used in many important applications like gaming consoles, digital TVs, and high-performance computers.
+### MIPS stands for "Microprocessor without Interlocked Pipeline Stages," and it is a kind of "RISC Reduced Instruction Set Computer”. It was developed in the 1980s by John Hennessy and his colleagues at Stanford University and after that, it was used in many important applications like gaming consoles, digital TVs, and high-performance computers.
 <pre>
   
 MIPS has three methods for implementation:<br />
