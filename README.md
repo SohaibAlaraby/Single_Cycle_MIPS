@@ -2,10 +2,10 @@
 ### MIPS stands for "Microprocessor without Interlocked Pipeline Stages," and it is a kind of "RISC Reduced Instruction Set Computer”. It was developed in the 1980s by John Hennessy and his colleagues at Stanford University and after that, it was used in many important applications like gaming consoles, digital TVs, and high-performance computers.
 <pre>
   
-MIPS has three methods for implementation:<br />
-  1-Single-cycle : each instruction is executed in a single cycle.<br />
-  2-Multi-cycle : each instruction is broken into series of steps and instructions is executed one after another. <br />
-  3-Pipelined : each instruction is broken into series of steps and multiple instructions are being excuted in parallel.<br />
+MIPS has three methods for implementation:
+  1-Single-cycle : each instruction is executed in a single cycle.
+  2-Multi-cycle : each instruction is broken into series of steps and instructions is executed one after another.
+  3-Pipelined : each instruction is broken into series of steps and multiple instructions are being excuted in parallel.
 
 </pre>
   ##
