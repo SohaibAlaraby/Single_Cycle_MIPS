@@ -45,4 +45,4 @@ There are external 2 units attached to MIPS:
     - instruction memory: used to store the program to be executed
     - data memory: used as external larger store unit for the microprossesor
 </pre>
-<img src="Extra_images/32register_mips.png" width="500">
+<img src="RTL_view/Top_view_MIPS.png" width="500">
