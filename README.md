@@ -16,19 +16,20 @@ MIPS has three methods for implementation:
 <img src="Extra_images/single_multi_pip.gif" width="700">
 <pre>
   
-What makes MIPS special is the simplicity of its instruction set. Instructions are divided to 3 types:
-  1-R-type instruction.
-      -add
-      -sub
-      -and
-      -or
-      -slt
-  2-I-type instruction.
-      -beq
-      -addi
-  3-J-type instruction.
-      -j
-      -jal
+What makes MIPS special is the simplicity of its instruction set. Instructions are divided into 3 types:
+    1-R-type instruction.
+        -add
+        -sub
+        -and
+        -or
+        -slt
+    2-I-type instruction.
+        -beq
+        -addi
+    3-J-type instruction.
+        -j
+        -jal
+
 </pre>
 
 <img src="Extra_images/instruction_set.png" width="700">
@@ -46,7 +47,7 @@ single-cycle MIPS consists of 2 units :
     - datapath: which performs according to the control signals to generate the right results.
 
 There are external 2 units attached to MIPS:
-    - instruction memory: used to store the program to be executed
-    - data memory: used as external larger store unit for the microprossesor
+    - instruction memory: is used to store the program to be executed
+    - data memory: is used as external larger store unit for the microprossesor
 </pre>
 <img src="RTL_view/Top_view_MIPS.png" width="700">
