@@ -32,4 +32,4 @@ What makes MIPS special is the simplicity of its instruction set. Instructions a
 
 MIPS contains 32 registers in its register file :
 
-<img src="Extra_images/instruction_set.png" width="500">
+<img src="Extra_images/32register_mips.png" width="500">
